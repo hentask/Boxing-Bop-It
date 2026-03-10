@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Training Data (users will create their own)
+data/raw/*.npz
+data/raw/*.json
+data/processed/*
+
+# Trained Models (users will train their own)
+models/*.h5
+models/*.keras
+models/*.png
+
+# Sound Files (users will generate their own)
+sounds/*.mp3
+sounds/*.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
