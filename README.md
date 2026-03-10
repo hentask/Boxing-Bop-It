@@ -14,7 +14,7 @@ An AI-powered boxing game that uses computer vision to detect your punches in re
 
 ## 🎥 Watch the Full Video
 
-YouTube Link - INSERT YOUR VIDEO LINK]](https://www.youtube.com/watch?v=TMepTlygNTw)
+YouTube Link - (https://www.youtube.com/watch?v=TMepTlygNTw)
 
 ## 🚀 Quick Start
 
