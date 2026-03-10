@@ -2,8 +2,6 @@
 
 An AI-powered boxing game that uses computer vision to detect your punches in real-time. Like the classic Bop It toy, but for boxing - voice commands tell you which punch to throw, and an AI judges if you got it right.
 
-![Demo GIF](demo.gif) <!-- Add a demo GIF if you have one -->
-
 ## 🎮 Features
 
 - **Real-time punch detection** using Google's MediaPipe pose estimation
@@ -16,7 +14,7 @@ An AI-powered boxing game that uses computer vision to detect your punches in re
 
 ## 🎥 Watch the Full Video
 
-[YouTube Link - INSERT YOUR VIDEO LINK]
+YouTube Link - INSERT YOUR VIDEO LINK]](https://www.youtube.com/watch?v=TMepTlygNTw)
 
 ## 🚀 Quick Start
 
